@@ -22,6 +22,5 @@
     "url": "https://github.com/millidavids/how-to-npm-tutorial/issues"
   },
   "homepage": "https://github.com/millidavids/how-to-npm-tutorial#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
