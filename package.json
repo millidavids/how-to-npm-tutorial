@@ -1,0 +1,25 @@
+{
+  "name": "@millidavids/how-to-npm",
+  "version": "1.0.0",
+  "description": "how-to-npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millidavids/how-to-npm-tutorial.git"
+  },
+  "keywords": [
+    "how",
+    "to",
+    "npm",
+    "tutorial"
+  ],
+  "author": "David Yurek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millidavids/how-to-npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/millidavids/how-to-npm-tutorial#readme"
+}
